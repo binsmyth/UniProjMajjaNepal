@@ -1,0 +1,89 @@
+
+
+
+
+fieldset {
+	width:500px;
+	margin:20px auto;
+	border:1px #006699 solid;
+	
+	
+}
+
+#field fieldset {
+	width:150px;
+}
+
+label {
+	margin-left:20px;
+	width:200px;
+	float:left;
+	font-size:18px;
+	line-height:30px;
+}
+
+#right-content input {
+	width:230px;
+	font-size:16px;
+	line-height: 24px;
+	margin-bottom:5px;
+	-webkit-border-radius: 5px;
+	 -moz-border-radius: 5px;
+	border-radius: 5px;
+	border:1px solid #CCC;
+	
+	}
+	
+	#right-content textarea {
+		width:230px;
+		font-size:16px;
+		
+		margin-bottom:5px;
+		-webkit-border-radius: 5px;
+		 -moz-border-radius: 5px;
+		border-radius: 5px;
+		border:1px solid #CCC;
+	
+		}
+
+fieldset legend {
+	color: #003366;
+	padding: 6px;
+	font-weight: bold;
+	background:;
+}
+
+#right-content input[type=submit]
+{
+	margin-top:5px;
+	width:100px;
+	    margin-left:200PX;
+		
+	    padding:2px 20px;
+	    -webkit-border-radius: 5px;
+	    -moz-border-radius: 5px;
+	    border-radius: 5px;
+	
+	    color: #003366;
+	    font-weight:bold;
+}
+
+#right-content input[type=reset]
+{
+	margin-top:5px;
+	width:100px;
+	    margin-left:200PX;
+		
+	    padding:2px 20px;
+	    -webkit-border-radius: 5px;
+	    -moz-border-radius: 5px;
+	    border-radius: 5px;
+	
+	    color: #003366;
+	    font-weight:bold;
+}
+
+}
+input:focus {
+border: 1px solid black;
+}

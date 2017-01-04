@@ -1,0 +1,33 @@
+#right-content {
+	width:730px;
+	float:right;
+	margin-top:10px;
+	
+	
+}
+
+fieldset {
+	width:600px;
+	padding:5px;
+	border:1px #006699 solid;
+	
+	
+}
+
+fieldset legend {
+color: #003366;
+padding: 6px;
+font-weight: bold;
+}
+
+#right-content table {
+	width:600px;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+#right-content table td {
+	text-align:center;
+}
